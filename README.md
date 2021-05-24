@@ -6,7 +6,6 @@ The purpose here was to develope an app that could be used for a company's Emplo
  # Table of Contents
   * [Installation](#installation)
   * [Links](#links)
-  * [Contributors](#contributors)
   * [Credits](#credits)
   * [License](#license)
 
