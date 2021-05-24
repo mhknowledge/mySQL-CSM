@@ -13,14 +13,14 @@ The purpose here was to develope an app that could be used for a company's Emplo
 # Installation
 Install npm, dotenv, inquirer, mysql, console-table-printer, console.table
 
-Links:
+# Links:
  mySQL-CSM Repository: https://github.com/mhknowledge/mySQL-CSM
 
   # Instructions 
   Once the user has all required files downloaded, type 'npm install express' and then 'npm install uuid' in the terminal. 
   # Credits
   Trilogy, GitHub, mySQL
-  
+
   # License
   The application you're enjoying is covered under the MIT license
   ## [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
