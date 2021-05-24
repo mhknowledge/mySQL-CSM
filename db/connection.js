@@ -1,5 +1,5 @@
-// require('dotenv').config();
-// const util = require('util');
+require('dotenv').config();
+const util = require('util');
 
 const mysql = require('mysql');
 
@@ -12,7 +12,7 @@ const connection = mysql.createConnection({
     user: 'root',
     //db name and password:
     database: 'employee_db',
-    password: 'hnhKunuz3#',
+    password: PROCESS.env.MYSQLPASSWORD,
 
 });
 
