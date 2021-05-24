@@ -14,6 +14,8 @@ Install npm, dotenv, inquirer, mysql, console-table-printer, console.table
 
 ## Links:
  mySQL-CSM Repository: https://github.com/mhknowledge/mySQL-CSM
+ https://drive.google.com/file/d/1-DxCY40fbktFO4DMK3k9Si8wZKy0tca0/view
+ 
 
   ## Instructions 
   Once the user has all required files downloaded, type 'npm install express' and then 'npm install uuid' in the terminal. 
