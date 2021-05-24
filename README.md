@@ -14,7 +14,9 @@ Install npm, dotenv, inquirer, mysql, console-table-printer, console.table
 
 ## Links:
  mySQL-CSM Repository: https://github.com/mhknowledge/mySQL-CSM
- 
+
+ ![image](https://user-images.githubusercontent.com/79174643/119409989-1bb74f00-bcb6-11eb-8df4-d478e9de58bf.png)
+
  https://drive.google.com/file/d/1-DxCY40fbktFO4DMK3k9Si8wZKy0tca0/view
  
 
